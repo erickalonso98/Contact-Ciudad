@@ -1,0 +1,57 @@
+label{
+    text-align: center;
+    width: 20%;
+    padding: 14px;
+    margin-top:20px;
+}
+input{
+    text-align: center;
+    padding: 14px;
+    width: 10%;
+    margin-top: 20px;
+    border-radius:10px;
+}
+
+input[type="submit"]{
+    width: 5%;
+    color: #fff;
+    background: #2034A2;
+    border: none;
+}
+
+table{
+    width: 70%;
+    border: 1px solid #000;
+    margin-top: 100px;
+}
+
+tr, td{
+    font-size: 30px;
+    border: 1px solid #000;
+}
+
+.fondo{
+    background-color: #1f4f8a;
+    color: #fff;
+}
+
+td{
+    background-color: #eee;
+}
+
+th ,tr, td, a{
+    text-align: center;
+    text-decoration: none;
+}
+
+a{
+    color: #fff;
+    cursor: pointer;
+}
+
+.enlace1{
+    background: #29B30A;
+}
+.enlace2{
+    background: #F6110A;
+}
